@@ -6,7 +6,11 @@
 
 This is a Python (2 and 3) library that provides a **webcam-based eye tracking system**. It gives you the exact position of the pupils and the gaze direction, in real time.
 
-[![Demo](https://imgur.com/nu9Xrz9)](https://www.youtube.com/watch?v=rdxTK4Ua5Hc)
+![Demo](https://i.imgur.com/nu9Xrz9.gif)
+
+
+[Watch on YouTube](https://www.youtube.com/watch?v=rdxTK4Ua5Hc)
+
 
 
 ## Installation
